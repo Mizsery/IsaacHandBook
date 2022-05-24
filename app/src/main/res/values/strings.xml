@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IsaacHandBook</string>
+    <string name="characters">Персонажи</string>
+    <string name="monsters">Монстры</string>
+    <string name="bosses">Боссы</string>
+    <string name="trinkets">Брелки</string>
+</resources>
